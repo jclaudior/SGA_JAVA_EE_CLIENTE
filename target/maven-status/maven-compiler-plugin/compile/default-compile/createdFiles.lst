@@ -1,0 +1,4 @@
+com\jcr\sga\service\PessoaServiceRemote.class
+com\jcr\sga\domain\Pessoa.class
+com\jcr\sga\service\PessoaServiceImpl.class
+com\jcr\sga\cliente\ClientePessoaService.class
